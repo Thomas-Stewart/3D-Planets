@@ -1,0 +1,18 @@
+﻿Build started 5/20/2015 2:38:32 PM.
+     1>Project "C:\Users\Tommy Gun\Google Drive\School\Sophomore\S2\Computer Graphics\Orbiting Planets 3D\Orbiting Planets 3D\Orbiting Planets 3D.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\tommy gun\google drive\school\sophomore\s2\computer graphics\orbiting planets 3d\orbiting planets 3d\main.cpp(487): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\tommy gun\google drive\school\sophomore\s2\computer graphics\orbiting planets 3d\orbiting planets 3d\main.cpp(493): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\tommy gun\google drive\school\sophomore\s2\computer graphics\orbiting planets 3d\orbiting planets 3d\main.cpp(499): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\tommy gun\google drive\school\sophomore\s2\computer graphics\orbiting planets 3d\orbiting planets 3d\main.cpp(568): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\tommy gun\google drive\school\sophomore\s2\computer graphics\orbiting planets 3d\orbiting planets 3d\main.cpp(576): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tommy Gun\Google Drive\School\Sophomore\S2\Computer Graphics\Orbiting Planets 3D\Debug\Orbiting Planets 3D.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Tommy Gun\Google Drive\School\Sophomore\S2\Computer Graphics\Orbiting Planets 3D\Debug\Orbiting Planets 3D.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Tommy Gun\Google Drive\School\Sophomore\S2\Computer Graphics\Orbiting Planets 3D\Debug\Orbiting Planets 3D.lib" /MACHINE:X86 Debug\main.obj
+         Orbiting Planets 3D.vcxproj -> C:\Users\Tommy Gun\Google Drive\School\Sophomore\S2\Computer Graphics\Orbiting Planets 3D\Debug\Orbiting Planets 3D.exe
+     1>Done Building Project "C:\Users\Tommy Gun\Google Drive\School\Sophomore\S2\Computer Graphics\Orbiting Planets 3D\Orbiting Planets 3D\Orbiting Planets 3D.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.34
